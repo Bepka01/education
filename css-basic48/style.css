@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  width: 500px;
+  text-align: center;
+  color: blue;
+  font-size: 40px;
+}
+h2 {
+  width: 500px;
+  text-align: center;
+  color: green;
+  font-weight: normal;
+  font-size: 30px;
+}
+i {
+  color: green;
+  font-weight: bold;
+}
+p {
+  width: 500px;
+  text-indent: 40px;
+  text-align: justify;
+}
+ul {
+  text-align: justify;
+  width: 400px;
+  line-height: 20px;
+}
