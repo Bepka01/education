@@ -1,0 +1,26 @@
+.eee {
+  font-size: 20px;
+}
+.zzz {
+  font-size: 30px;
+}
+.eee,
+.zzz {
+  line-height: 1.5;
+  font-family: Arial;
+}
+.qqq,
+.www,
+.ppp {
+  text-align: center;
+  font-family: Arial;
+}
+.qqq {
+  font-size: 20px;
+}
+.www {
+  font-size: 30px;
+}
+.ppp {
+  font-size: 35px;
+}
