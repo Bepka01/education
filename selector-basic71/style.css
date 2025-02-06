@@ -10,6 +10,11 @@
   font-size: 16px;
   color: red;
 }
+
+/* #block h1.eee,
+#block h2.zzz {
+  color: red;
+} */
 .xxx .kkk,
 .eee h2.zzz,
 #eee h2 {
