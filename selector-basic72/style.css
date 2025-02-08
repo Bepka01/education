@@ -1,0 +1,49 @@
+div p {
+  color: red;
+}
+div h2 {
+  color: blue;
+}
+#block p {
+  color: green;
+}
+
+#block1 h2 {
+  font-size: 30px;
+  color: greenyellow;
+}
+.bbb {
+  color: aqua;
+  font-size: 10px;
+}
+#block .bbb {
+  color: darkmagenta;
+  font-size: 10px;
+}
+p.bbb {
+  color: gold;
+}
+#block p.bbb {
+  color: darkorange;
+  font-size: 20px;
+}
+.bbb,
+.xxx {
+  color: blueviolet;
+}
+p.bbb,
+h2.xxx {
+  font-size: 100px;
+}
+.fff {
+  font-size: 100px;
+}
+p.fff {
+  color: chartreuse;
+}
+.fff .bbb {
+  text-decoration: underline;
+}
+.fff h2.bbb {
+  text-decoration: overline;
+}
