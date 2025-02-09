@@ -10,3 +10,12 @@
 .small {
   font-size: 20px;
 }
+.size {
+  font-size: 50px;
+}
+.color {
+  color: chocolate;
+}
+.decorar {
+  text-decoration: underline;
+}
