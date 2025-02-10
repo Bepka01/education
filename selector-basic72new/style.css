@@ -39,3 +39,34 @@ h2.bbb {
 .xxx {
   color: black;
 }
+/* задание11 */
+p.bbb,
+h2.xxx {
+  font-size: 10px;
+  color: blueviolet;
+}
+/* задание12 */
+#block p.bbb,
+#block p.xxx {
+  color: red;
+}
+/* задание13 */
+.fff {
+  color: chartreuse;
+}
+/* задание14 */
+.fff p {
+  font-size: 100px;
+}
+/* задание15 */
+p.fff {
+  color: purple;
+}
+/* задание16 */
+.fff .bbb {
+  color: red;
+}
+/* задание17 */
+.fff h2.bbb {
+  color: blue;
+}
