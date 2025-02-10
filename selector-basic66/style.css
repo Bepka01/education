@@ -1,0 +1,12 @@
+#elem h2 {
+  color: red;
+}
+#elem .text {
+  color: blue;
+}
+#elem p.text {
+  color: greenyellow;
+}
+#elem li.text {
+  text-decoration: underline;
+}
