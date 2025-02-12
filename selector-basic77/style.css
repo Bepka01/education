@@ -1,0 +1,7 @@
+#elem + li {
+  color: red;
+}
+/* задание2 */
+.elem + li {
+  color: blue;
+}
