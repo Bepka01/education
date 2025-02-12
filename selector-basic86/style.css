@@ -1,0 +1,20 @@
+a.zzz {
+  color: red;
+}
+a.zzz:hover {
+  text-decoration: none;
+}
+/* задание2 */
+#block a.zzz {
+  color: red;
+}
+#block a.zzz:hover {
+  text-decoration: none;
+}
+/* задание3 */
+.block a.zzz {
+  color: red;
+}
+.block a.zzz:hover {
+  text-decoration: none;
+}
