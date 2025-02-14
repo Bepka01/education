@@ -1,0 +1,39 @@
+li:only-child {
+  color: red;
+}
+/* задание2 */
+ul.zadanie2 li {
+  border: 1px solid blue;
+  list-style-type: circle;
+  color: blue;
+  width: 100px;
+}
+ul.zadanie2 li:empty {
+  border: 3px solid rgb(0, 255, 38);
+  color: red;
+}
+/* задание3 */
+p::first-letter {
+  color: red;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+p::first-line {
+  color: blueviolet;
+}
+
+/* задание4 */
+.zadanie4 h1,
+p {
+  text-align: center;
+}
+.zadanie4 {
+  text-align: center;
+  transition-duration: 3s;
+  border: 1px solid black;
+  width: 200px;
+}
+.zadanie4:hover {
+  width: 100vw;
+}
