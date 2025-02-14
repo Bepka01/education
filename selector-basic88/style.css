@@ -1,0 +1,15 @@
+ul.zadanie1 li:nth-child(3) {
+  color: red;
+}
+ul.zadanie2 li:nth-child(even) {
+  color: green;
+}
+ul.zadanie2 li:nth-child(odd) {
+  color: red;
+}
+ul.zadanie3 li:nth-child(3n + 3) {
+  color: red;
+}
+ul.zadanie4 li:nth-last-child(2) {
+  color: red;
+}
