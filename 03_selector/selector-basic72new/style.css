@@ -1,0 +1,72 @@
+/* задание1 */
+div p {
+  text-decoration: underline;
+}
+/* задание2 */
+div h2 {
+  color: red;
+}
+/* задание3 */
+#block p {
+  color: blue;
+}
+/* задание4 */
+#block h2 {
+  font-size: 30px;
+}
+/* задание5 */
+.bbb {
+  color: chartreuse;
+}
+/* задание6 */
+#block .bbb {
+  color: cornflowerblue;
+}
+/* задание7 */
+p.bbb {
+  color: forestgreen;
+}
+/* заание8 */
+h2.bbb {
+  font-size: 50px;
+}
+/* задание9 */
+#block p.bbb {
+  text-decoration: underline;
+}
+/* задание10 */
+.bbb,
+.xxx {
+  color: black;
+}
+/* задание11 */
+p.bbb,
+h2.xxx {
+  font-size: 10px;
+  color: blueviolet;
+}
+/* задание12 */
+#block p.bbb,
+#block p.xxx {
+  color: red;
+}
+/* задание13 */
+.fff {
+  color: chartreuse;
+}
+/* задание14 */
+.fff p {
+  font-size: 100px;
+}
+/* задание15 */
+p.fff {
+  color: purple;
+}
+/* задание16 */
+.fff .bbb {
+  color: red;
+}
+/* задание17 */
+.fff h2.bbb {
+  color: blue;
+}

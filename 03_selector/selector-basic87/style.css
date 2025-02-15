@@ -1,0 +1,14 @@
+ul.first li:first-child {
+  color: red;
+}
+/* задание2 */
+ul.last li:last-child {
+  color: green;
+}
+/* задание3 */
+ul.first-last li:first-child {
+  color: red;
+}
+ul.first-last li:last-child {
+  color: green;
+}
