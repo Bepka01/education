@@ -10,3 +10,6 @@
 .nthlastoftype h2:nth-last-of-type(2) {
   color: red;
 }
+.onlyoftype h2:only-of-type {
+  color: red;
+}
