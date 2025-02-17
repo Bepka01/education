@@ -1,0 +1,16 @@
+.zadanie1 {
+  border-left: 3px solid orange;
+  border-top: 3px solid blue;
+  border-bottom: 3px solid red;
+  border-right: 3px solid green;
+  width: 300px;
+  height: 200px;
+}
+.zadanie2 {
+  border-top: 1px solid blue;
+  border-right: 2px dotted green;
+  border-bottom: 1px solid blue;
+  border-left: 3px solid red;
+  width: 300px;
+  height: 200px;
+}
