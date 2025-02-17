@@ -1,0 +1,9 @@
+ul.zadanie1 li:not(.elem) {
+  color: red;
+}
+ul.zadanie2 li:not(:first-child) {
+  color: red;
+}
+ul.zadanie3 li:not(:first-child):not(:last-child) {
+  color: red;
+}
