@@ -1,0 +1,15 @@
+.firstoftype p:first-of-type {
+  color: red;
+}
+.lastoftype p:last-of-type {
+  color: red;
+}
+.nthoftype p:nth-of-type(2) {
+  color: red;
+}
+.nthlastoftype h2:nth-last-of-type(2) {
+  color: red;
+}
+.onlyoftype h2:only-of-type {
+  color: red;
+}
