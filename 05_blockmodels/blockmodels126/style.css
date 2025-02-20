@@ -1,0 +1,31 @@
+.father {
+  width: 300px;
+  border: 1px solid red;
+}
+.son {
+  height: 100px;
+  border: 1px solid green;
+  margin: 30px;
+}
+.box1 {
+  width: 600px;
+  border: 1px solid red;
+}
+.box2 {
+  height: 300px;
+  border: 1px solid purple;
+  margin: 30px;
+}
+.boxx1 {
+  width: 600px;
+  border: 3px solid yellow;
+}
+.boxx2 {
+  border: 1px solid green;
+  margin: 30px;
+}
+.boxx3 {
+  height: 150px;
+  border: 1px solid pink;
+  margin: 20px;
+}
