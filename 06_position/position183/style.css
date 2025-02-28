@@ -1,0 +1,21 @@
+.box {
+  margin: 0 auto;
+  border: 5px solid black;
+  height: 500px;
+  width: 700px;
+  position: relative;
+}
+.box1 {
+  right: -200px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 3px solid red;
+}
+.box2 {
+  left: -200px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 3px solid red;
+}
