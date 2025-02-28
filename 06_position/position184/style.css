@@ -1,0 +1,11 @@
+.fixed {
+  border: 10px solid red;
+  position: fixed;
+  bottom: 10px;
+  right: 30px;
+}
+.box {
+  height: 3000px;
+  width: 800px;
+  border: 1px solid black;
+}
