@@ -1,0 +1,24 @@
+.box {
+  border: 1px solid red;
+  width: 1000px;
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+}
+.box1 {
+  height: 100px;
+  width: 200px;
+  border: 1px solid green;
+}
+.box22 {
+  border: 1px solid red;
+  width: 1000px;
+  height: 1000px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.box11 {
+  height: 100px;
+  width: 200px;
+  border: 1px solid green;
+}
