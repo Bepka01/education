@@ -1,0 +1,81 @@
+.zadanie1 {
+  height: 500px;
+  width: 900px;
+  border: 3px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box1 {
+  width: 50px;
+  height: 50px;
+  border: 3px solid green;
+}
+.zadanie2 {
+  height: 500px;
+  width: 900px;
+  border: 3px solid red;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+}
+.box2 {
+  width: 50px;
+  height: 50px;
+  border: 3px solid green;
+}
+.zadanie3 {
+  height: 500px;
+  width: 900px;
+  border: 3px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.box3 {
+  width: 50px;
+  height: 50px;
+  border: 3px solid green;
+}
+.zadanie4 {
+  height: 500px;
+  width: 900px;
+  border: 3px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.box4 {
+  width: 50px;
+  height: 50px;
+  border: 3px solid green;
+}
+.zadanie5 {
+  height: 500px;
+  width: 900px;
+  border: 3px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.box5 {
+  width: 50px;
+  height: 50px;
+  border: 3px solid green;
+}
+.zadanie6 {
+  height: 500px;
+  width: 900px;
+  border: 3px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column-reverse;
+}
+.box6 {
+  width: 50px;
+  height: 50px;
+  border: 3px solid green;
+}
