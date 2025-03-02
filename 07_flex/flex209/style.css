@@ -1,0 +1,75 @@
+.zadanie1 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  justify-content: flex-end;
+}
+.box1 {
+  height: 50px;
+  width: 50px;
+  border: 1px solid green;
+}
+.zadanie2 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.box2 {
+  height: 50px;
+  width: 50px;
+  border: 1px solid green;
+}
+.zadanie3 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.box3 {
+  height: 50px;
+  width: 50px;
+  border: 1px solid green;
+}
+.zadanie4 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.box4 {
+  height: 50px;
+  width: 50px;
+  border: 1px solid green;
+}
+.zadanie4 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+.box4 {
+  height: 50px;
+  width: 50px;
+  border: 1px solid green;
+}
+.zadanie5 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: start;
+}
+.box5 {
+  height: 50px;
+  width: 50px;
+  border: 1px solid green;
+}
