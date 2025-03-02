@@ -1,0 +1,28 @@
+.zadanie1 {
+  width: 900px;
+  height: 600px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+}
+.box1 {
+  order: -3;
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.box2 {
+  order: -2;
+  background-color: rgb(30, 27, 115);
+  width: 50px;
+  height: 50px;
+  border: 1px solid rgb(190, 209, 19);
+}
