@@ -1,0 +1,125 @@
+.zadanie1 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+}
+.box1 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.zadanie2 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}
+.box2 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.zadanie3 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
+}
+.box3 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.zadanie4 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: end;
+}
+.box4 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.zadanie5 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}
+.box5 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.zadanie6 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+}
+.box6 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.zadanie7 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+}
+.box7 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.zadanie8 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+  align-items: end;
+}
+.box8 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.zadanie9 {
+  width: 700px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: end;
+}
+.box9 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
