@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.wrapper {
+  border: 1px solid orange;
+  margin: 20px auto;
+  width: 900px;
+}
+.menu {
+  background-color: orange;
+  display: flex;
+  justify-content: left;
+}
+.menu a {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 10px;
+  text-decoration: none;
+  color: white;
+}
+.menu .active {
+  background-color: white;
+  color: orange;
+}
+.menu a:hover,
+.menu a:active {
+  background-color: white;
+  color: orange;
+}
+.content {
+  padding: 0px 20px 0px 20px;
+  font-size: 20px;
+  color: orange;
+}
+.content a {
+  color: rgb(214, 141, 6);
+}
+.content h1 {
+  margin: 15px 0px 15px 0px;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(229, 145, 42);
+}
+.content h2 {
+  margin: 15px 0px 15px 0px;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(229, 145, 42);
+}
+.content p {
+  line-height: 40px;
+  padding: 20px 0px 20px 0px;
+  text-align: justify;
+  text-indent: 40px;
+}
+.req {
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+}
+.req a {
+  text-decoration: none;
+  color: orange;
+  padding: 10px 20px;
+}
+.req a:hover,
+.req a:active {
+  color: black;
+  text-decoration: underline;
+}
