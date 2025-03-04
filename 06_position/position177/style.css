@@ -1,0 +1,102 @@
+#elem1 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  position: absolute;
+  top: 20px;
+  left: 100px;
+}
+#elem2 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid green;
+  position: absolute;
+  top: 140px;
+  left: 250px;
+}
+#elem3 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  position: absolute;
+  top: 300px;
+  left: 380px;
+}
+.box1 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  position: absolute;
+  top: 450px;
+  left: 100px;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid green;
+  position: absolute;
+  top: 450px;
+  left: 250px;
+}
+.box3 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  position: absolute;
+  top: 450px;
+  left: 400px;
+}
+.box11 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  position: absolute;
+  top: 600px;
+  left: 100px;
+}
+.box22 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid green;
+  position: absolute;
+  top: 660px;
+  left: 160px;
+}
+.box33 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  position: absolute;
+  top: 710px;
+  left: 220px;
+}
+.box111 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  position: absolute;
+  top: 900px;
+  left: 100px;
+  box-sizing: border-box;
+}
+.box222 {
+  background: green;
+  width: 100px;
+  height: 100px;
+  border: 1px solid green;
+  position: absolute;
+  top: 960px;
+  left: 160px;
+  box-sizing: border-box;
+}
+.box333 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  position: absolute;
+  top: 1020px;
+  left: 220px;
+  box-sizing: border-box;
+}
