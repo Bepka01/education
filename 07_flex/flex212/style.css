@@ -1,0 +1,39 @@
+.zadanie1 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+}
+.box1 {
+  border: 1px solid black;
+  width: 50px;
+}
+.zadanie2 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+.box2 {
+  border: 1px solid black;
+  height: 50px;
+}
+.zadanie3 {
+  height: 500px;
+  width: 900px;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+}
+.box3 {
+  border: 1px solid black;
+  height: 50px;
+}
