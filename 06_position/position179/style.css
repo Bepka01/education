@@ -1,11 +1,11 @@
-.box11 {
+.first {
   width: 600px;
   height: 500px;
   border: 1px solid green;
   position: relative;
   margin: 30px auto;
 }
-.box22 {
+.box-red {
   width: 100px;
   height: 100px;
   position: absolute;
@@ -14,62 +14,62 @@
   background-color: rgb(172, 14, 14);
 }
 
-.box1 {
+.box-center {
   width: 600px;
   height: 500px;
   background-color: green;
   position: relative;
   margin: 0 auto;
 }
-.box2,
-.box3 {
+.box-left,
+.box-right {
   width: 100px;
   height: 100px;
   position: absolute;
   background-color: white;
 }
-.box2 {
+.box-left {
   top: 50px;
   left: 100px;
 }
 
-.box3 {
+.box-right {
   bottom: 50px;
   right: 100px;
 }
-.zadanie3 {
+.traffic-light {
   position: relative;
   width: 200px;
   height: 430px;
   margin: 20px auto;
   border: 1px solid black;
 }
-.crug1,
-.crug2,
-.crug3 {
+.circle-top,
+.circle-center,
+.circle-bottom {
   border: 1px solid black;
   position: absolute;
   width: 100px;
   height: 100px;
   border-radius: 50px;
 }
-.crug1 {
+.circle-top {
   background-color: red;
   left: 50px;
   top: 50px;
 }
-.crug2 {
+.circle-center {
   background-color: yellow;
   left: 50px;
   top: 165px;
 }
-.crug3 {
+.circle-bottom {
   background-color: green;
   left: 50px;
   bottom: 50px;
 }
 
-.zadanie4 {
+.unsmile {
   margin: 20px auto;
   border: 1px solid black;
   border-radius: 50%;
@@ -78,7 +78,7 @@
   background-color: green;
   position: relative;
 }
-.kvadrat {
+.nose {
   border: 1px solid white;
   height: 100px;
   width: 100px;
@@ -88,26 +88,26 @@
   right: 250px;
 }
 
-.krug1,
-.krug2 {
+.circle-left,
+.circle-right {
   border-radius: 50%;
   border: 1px solid white;
   height: 100px;
   width: 100px;
   background-color: white;
 }
-.krug1,
-.krug2,
+.circle-left,
+.circle-right,
 .nosmile {
   background-color: white;
   border: 1px solid white;
   position: absolute;
 }
-.krug1 {
+.circle-left {
   top: 100px;
   left: 100px;
 }
-.krug2 {
+.circle-right {
   top: 100px;
   right: 100px;
 }
@@ -117,7 +117,7 @@
   bottom: 100px;
   left: 125px;
 }
-.zadanie5 {
+.smile {
   margin: 20px auto;
   border: 1px solid black;
   border-radius: 50%;
@@ -126,9 +126,9 @@
   background-color: green;
   position: relative;
 }
-.krug11,
-.krug22,
-.krug33 {
+.eye-left,
+.eye-right,
+.smile .nose {
   border-radius: 50%;
   border: 1px solid white;
   height: 100px;
@@ -137,20 +137,20 @@
   position: absolute;
 }
 
-.krug11 {
+.eye-left {
   top: 100px;
   left: 100px;
 }
-.krug22 {
+.eye-right {
   top: 100px;
   right: 100px;
 }
-.krug33 {
+.smile .nose {
   z-index: 1;
   top: 250px;
   right: 250px;
 }
-.smile {
+.smile-first {
   position: absolute;
   height: 200px;
   width: 400px;
