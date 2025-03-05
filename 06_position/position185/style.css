@@ -7,9 +7,12 @@
   left: 0px;
   top: 0px;
   background-color: green;
+  margin-bottom: 200px;
 }
 
 .content {
+  padding-top: 100px;
+  margin-top: 200px;
   text-align: justify;
   margin: 0 auto;
   width: 300px;
