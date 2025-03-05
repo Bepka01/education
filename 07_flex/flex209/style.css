@@ -1,75 +1,37 @@
-.zadanie1 {
-  height: 500px;
-  width: 900px;
-  border: 1px solid red;
-  display: flex;
-  justify-content: flex-end;
-}
-.box1 {
-  height: 50px;
-  width: 50px;
-  border: 1px solid green;
-}
-.zadanie2 {
-  height: 500px;
-  width: 900px;
-  border: 1px solid red;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-}
-.box2 {
-  height: 50px;
-  width: 50px;
-  border: 1px solid green;
-}
-.zadanie3 {
-  height: 500px;
-  width: 900px;
-  border: 1px solid red;
-  display: flex;
-  flex-direction: row-reverse;
-}
-.box3 {
-  height: 50px;
-  width: 50px;
-  border: 1px solid green;
-}
-.zadanie4 {
-  height: 500px;
-  width: 900px;
-  border: 1px solid red;
-  display: flex;
-  flex-direction: row-reverse;
-}
-.box4 {
-  height: 50px;
-  width: 50px;
-  border: 1px solid green;
-}
-.zadanie4 {
-  height: 500px;
-  width: 900px;
-  border: 1px solid red;
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: flex-end;
-}
-.box4 {
-  height: 50px;
-  width: 50px;
-  border: 1px solid green;
-}
+.zadanie1,
+.zadanie2,
+.zadanie3,
+.zadanie4,
 .zadanie5 {
   height: 500px;
   width: 900px;
   border: 1px solid red;
   display: flex;
-  flex-direction: column-reverse;
-  justify-content: start;
 }
-.box5 {
+.zadanie1 {
+  justify-content: flex-end;
+}
+.box {
   height: 50px;
   width: 50px;
   border: 1px solid green;
+}
+.zadanie2 {
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.zadanie3 {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.zadanie4 {
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+.zadanie5 {
+  flex-direction: column-reverse;
+  justify-content: start;
 }
