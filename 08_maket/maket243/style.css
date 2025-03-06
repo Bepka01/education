@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+.center {
+  margin: auto;
+  width: 800px;
+  text-align: center;
+}
+.wrappergreen {
+  background-color: #008040;
+}
+.wrappergreen .center h1 {
+  margin-bottom: 20px;
+  color: white;
+  font-size: 35px;
+}
+
+.wrappergreen .center p {
+  color: white;
+  font-size: 20px;
+}
+.content {
+  padding: 20px 00px 20px 00px;
+}
+.wrapper .center .content {
+  font-size: 18px;
+  text-align: justify;
+}
+.wrapper .center .content h2 {
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.wrapper .center .content li {
+  font-size: 18px;
+}
+.wrapperred {
+  margin-top: 20px;
+  background-color: red;
+}
+.wrapperred .center .content {
+  color: white;
+}
+.wrapperred .center .content h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.wrapperorange {
+  margin-top: 20px;
+  background-color: orange;
+  padding-top: 100px;
+}
