@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+.wrapper {
+  width: 800px;
+  margin: auto;
+}
+header,
+.left-sidebar,
+.content,
+.right-sidebar,
+footer {
+  border: 1px solid black;
+}
+header,
+footer {
+  height: 200px;
+  padding: 20px;
+}
+.conteiner {
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+.left-sidebar,
+.right-sidebar {
+  width: 20%;
+}
+.content {
+  width: 50%;
+}
