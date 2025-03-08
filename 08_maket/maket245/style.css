@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+header,
+footer,
+.wrapper,
+.content,
+.sidebar {
+  border: 1px solid black;
+}
+header,
+footer {
+  height: 200px;
+}
+.wrapper {
+  width: 900px;
+  margin: auto;
+}
+.content {
+  width: 60%;
+  height: 700px;
+}
+.conteiner {
+  display: flex;
+}
+.sidebar {
+  margin-left: 100px;
+  width: 30%;
+}

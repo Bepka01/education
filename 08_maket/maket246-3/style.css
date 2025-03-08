@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+.wrapper {
+  margin: auto;
+  width: 900px;
+}
+header,
+.wrapper,
+.content,
+.left-sidebar,
+.right-sidebar,
+footer {
+  border: 1px solid black;
+}
+header,
+footer {
+  height: 200px;
+}
+.conteiner {
+  display: flex;
+  gap: 10%;
+}
+.left-sidebar,
+.right-sidebar {
+  width: 15%;
+}
+.content {
+  width: 50%;
+  height: 500px;
+}
