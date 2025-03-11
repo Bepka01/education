@@ -7,50 +7,43 @@
   margin: 20px auto;
   width: 900px;
 }
-.menu {
+nav {
   background-color: orange;
   display: flex;
-  justify-content: left;
 }
-.menu a {
+nav a {
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 11px 10px;
+  padding: 10px;
   text-decoration: none;
   color: white;
 }
-.menu .active {
+nav .active {
   background-color: white;
   color: orange;
 }
-.menu a:hover,
-.menu a:active {
+nav a:hover,
+nav a:active {
   background-color: white;
   color: orange;
 }
 .content {
-  padding: 0px 20px 0px 20px;
+  padding: 0px 20px;
   font-size: 20px;
   color: orange;
 }
 .content a {
   color: rgb(214, 141, 6);
 }
-.content h1 {
-  margin: 15px 0px 15px 0px;
-  text-align: center;
-  font-size: 30px;
-  color: rgb(229, 145, 42);
-}
+
+.content h1,
 .content h2 {
-  margin: 15px 0px 15px 0px;
-  text-align: center;
-  font-size: 30px;
-  color: rgb(229, 145, 42);
+  margin: 15px 0px;
 }
+
 .content p {
   line-height: 40px;
-  padding: 20px 0px 20px 0px;
+  padding: 20px 0px;
   text-align: justify;
   text-indent: 40px;
 }
@@ -68,4 +61,11 @@
 .req a:active {
   color: black;
   text-decoration: underline;
+}
+.content h1,
+.content h2 {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(229, 145, 42);
+  margin: 15px 0px;
 }
