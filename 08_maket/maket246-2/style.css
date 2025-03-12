@@ -9,8 +9,7 @@
 header,
 .wrapper,
 .content,
-.left-sidebar,
-.right-sidebar,
+aside,
 footer {
   border: 1px solid black;
 }
@@ -18,12 +17,11 @@ header,
 footer {
   height: 200px;
 }
-.conteiner {
+main {
   display: flex;
   gap: 10%;
 }
-.left-sidebar,
-.right-sidebar {
+aside {
   width: 15%;
 }
 .content {
