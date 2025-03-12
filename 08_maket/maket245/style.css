@@ -22,7 +22,7 @@ footer {
   height: 700px;
 }
 main {
-  /* display: flex; */
+  display: flex;
 }
 aside {
   margin-left: 100px;
