@@ -7,24 +7,24 @@
   background-color: #ebebeb;
 }
 header,
-.menu a {
+nav a {
   background-color: rgb(55, 53, 53);
 }
-.menu {
+nav {
   width: 100%;
   display: flex;
   justify-content: left;
   gap: 15px;
   background-color: rgb(55, 53, 53);
 }
-.menu a {
+nav a {
   padding: 10px 10px 10px 0px;
   font-size: 28px;
   color: white;
   text-decoration: none;
 }
-.menu a:active,
-.menu a:hover {
+nav a:active,
+nav a:hover {
   background-color: gray;
 }
 .conteiner {
