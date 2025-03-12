@@ -40,8 +40,7 @@ nav a:hover {
   width: 45%;
 }
 
-.left-sidebar,
-.right-sidebar {
+aside {
   width: 25%;
 }
 .conteiner p {
@@ -98,4 +97,7 @@ footer .conteiner {
 footer p {
   text-align: center;
   font-size: 14px;
+}
+main {
+  padding: 0px 20px;
 }
