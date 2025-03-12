@@ -7,9 +7,8 @@
   margin: auto;
 }
 header,
-.left-sidebar,
+aside,
 .content,
-.right-sidebar,
 footer {
   border: 1px solid black;
 }
@@ -18,13 +17,12 @@ footer {
   height: 200px;
   padding: 20px;
 }
-.conteiner {
+main {
   height: 300px;
   display: flex;
   justify-content: space-between;
 }
-.left-sidebar,
-.right-sidebar {
+aside {
   width: 20%;
 }
 .content {
