@@ -21,8 +21,8 @@ footer {
   width: 60%;
   height: 700px;
 }
-.conteiner {
-  display: flex;
+main {
+  /* display: flex; */
 }
 aside {
   margin-left: 100px;
