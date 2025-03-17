@@ -6,7 +6,7 @@ header,
 footer,
 .wrapper,
 .content,
-aside {
+.sidebar {
   border: 1px solid black;
 }
 header,
@@ -18,13 +18,13 @@ footer {
   margin: auto;
 }
 .content {
-  width: 61%;
+  width: 60%;
   height: 700px;
 }
-main {
+.conteiner {
   display: flex;
 }
-aside {
-  margin-left: 100px;
+.sidebar {
+  margin-right: 100px;
   width: 30%;
 }
