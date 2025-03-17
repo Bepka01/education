@@ -1,0 +1,60 @@
+.zadanie1 {
+  border: 1px solid red;
+  width: 900px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.box1 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.box11 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+  align-self: flex-end;
+}
+.zadanie2 {
+  border: 1px solid red;
+  width: 900px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+}
+.box2 {
+  width: 50px;
+
+  border: 1px solid green;
+}
+.box22 {
+  width: 50px;
+
+  border: 1px solid green;
+  align-self: center;
+}
+.zadanie3 {
+  border: 1px solid red;
+  width: 900px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}
+.box3 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+}
+.box33 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid green;
+  align-self: center;
+}
