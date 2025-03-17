@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+header,
+footer,
+.wrapper,
+.content,
+aside {
+  border: 2px solid black;
+}
+header,
+footer {
+  height: 200px;
+}
+.wrapper {
+  width: 900px;
+  margin: auto;
+}
+.content {
+  width: 61%;
+  height: 700px;
+}
+main {
+  display: flex;
+}
+aside {
+  margin-left: 100px;
+  width: 30%;
+}
