@@ -1,0 +1,19 @@
+.fix {
+  text-align: center;
+  height: 100px;
+  width: 100%;
+  border: 1px solid green;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  background-color: green;
+}
+
+.content {
+  padding-top: 100px;
+  margin-top: 200px;
+  text-align: justify;
+  margin: 0 auto;
+  width: 300px;
+  font: 16px Arial;
+}
