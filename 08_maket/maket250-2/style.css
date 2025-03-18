@@ -27,7 +27,6 @@ nav a:hover {
   background-color: gray;
 }
 .conteiner {
-  padding: ;
   background-color: aliceblue;
   display: flex;
   justify-content: space-between;
@@ -49,7 +48,7 @@ aside {
 }
 h1,
 h2 {
-  margin: 10px 0px 5px 0px;
+  margin: 10px 0px 5px;
 }
 
 h1,
