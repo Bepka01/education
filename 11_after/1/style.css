@@ -1,0 +1,65 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+main {
+  margin: auto;
+  width: 600px;
+}
+h3 {
+  letter-spacing: 2px;
+  font-weight: 100;
+}
+ul.list {
+  list-style: none;
+  text-align: justify;
+}
+ul.list,
+h3,
+.put {
+  margin: 0px 0px 15px 0px;
+}
+ul.list li::before {
+  content: "✔ ";
+  color: green;
+}
+ul.list li:hover::before,
+ul.list li:hover {
+  color: red;
+}
+p.line::first-line {
+  color: red;
+}
+p.letter::first-letter {
+  font-size: 30px;
+  color: red;
+}
+.put {
+  display: flex;
+  justify-content: space-around;
+  margin: 0px 0px 30px 0px;
+  align-items: center;
+}
+.botton p {
+  text-align: center;
+  padding: 10px;
+}
+.put .botton::before {
+  content: "";
+}
+
+.put .botton p::after {
+  content: "⤳";
+}
+.put .botton {
+  border-radius: 20px;
+
+  background-color: aqua;
+}
+.botton3:active {
+  background-color: red;
+}
+.botton2:hover {
+  background-color: gold;
+}
