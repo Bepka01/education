@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 main {
-  margin: auto;
+  margin: 100px auto;
   width: 600px;
 }
 h3 {
