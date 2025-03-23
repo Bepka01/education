@@ -21,7 +21,7 @@ h3,
   margin: 0px 0px 15px 0px;
 }
 ul.list li::before {
-  content: "✔ ";
+  content: "✔";
   color: green;
 }
 ul.list li:hover::before,
@@ -38,7 +38,7 @@ p.letter::first-letter {
 .put {
   display: flex;
   justify-content: space-around;
-  margin: 0px 0px 30px 0px;
+  margin: 0px 0px 29px 0px;
   align-items: center;
 }
 .botton p {
