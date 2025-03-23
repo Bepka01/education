@@ -33,12 +33,12 @@ p.line::first-line {
 }
 p.letter::first-letter {
   font-size: 30px;
-  color: red;
+  color: rgb(109, 193, 36);
 }
 .put {
   display: flex;
   justify-content: space-around;
-  margin: 0px 0px 29px 0px;
+  margin: 0px 0px 30px 0px;
   align-items: center;
 }
 .botton p {
